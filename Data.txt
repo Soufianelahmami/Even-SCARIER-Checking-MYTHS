@@ -17,44 +17,44 @@
     },
     "guideData": [
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_1",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFlfgR.webp",
+            "title": "Even SCARIER Checking MYTHS 1",
+            "text_Content_": "Managing your finances can often seem like navigating a haunted house full of twists, turns, and hidden traps. To make matters worse, there are numerous myths and misconceptions that can lead you down a spooky path of financial disaster"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_2",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFlneI.webp",
+            "title": "Even SCARIER Checking MYTHS 2",
+            "text_Content_": " In this article, we'll shine a light on even scarier checking myths and debunk them, helping you steer clear of financial nightmares"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_3",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFlC5N.webp",
+            "title": "Even SCARIER Checking MYTHS 3",
+            "text_Content_": "One of the most dangerous myths out there is the belief that you can simply ignore your bank account for long periods without consequences. The truth is, checking your account regularly is essential for several reasons"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_4",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFlBJp.webp",
+            "title": "Even SCARIER Checking MYTHS 4",
+            "text_Content_": "Many banks offer overdraft protection as a safety net for your checking account. While it may sound like a good idea, it can lead to excessive fees and a cycle of debt if not used wisely"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_5",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFldWg.webp",
+            "title": "Even SCARIER Checking MYTHS 5",
+            "text_Content_": "Overdraft protection often comes with its own set of fees, and it might encourage careless spending habits. Instead, focus on managing your finances effectively to avoid overdrawing your account in the first place"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_6",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFl2sa.webp",
+            "title": "Even SCARIER Checking MYTHS 6",
+            "text_Content_": "Some people believe that budgets are too restrictive or time-consuming to maintain. However, not having a budget is like driving in the dark without headlights – you're more likely to crash"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_7",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": "https://iili.io/JJFlFqJ.webp",
+            "title": "Even SCARIER Checking MYTHS 7",
+            "text_Content_": "Creating a budget is a crucial step in financial planning. It helps you understand your income, expenses, and savings goals, making it easier to stay on track and avoid overspending"
         },
         {
-            "image_link": "https://wallpaper.dog/large/20487356.jpg",
-            "title": "title_value_8",
-            "text_Content_": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving your level at this game."
+            "image_link": https://iili.io/JJFlK0v.webp",
+            "title": "Even SCARIER Checking MYTHS 8",
+            "text_Content_": "Sharing your PIN or online banking credentials with anyone, even close friends or family members, is a recipe for disaster. It puts your financial security at risk and can lead to unauthorized access to your accounts"
         }
     ]
 }
